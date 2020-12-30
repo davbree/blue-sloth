@@ -40,6 +40,11 @@ models:
         description: Site title
         required: true
       - type: string
+        name: title2
+        label: Title2
+        description: Site title
+        required: true
+      - type: string
         name: baseURL
         label: Base URL
         description: Hostname (and path) to the root
