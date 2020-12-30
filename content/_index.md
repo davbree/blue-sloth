@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: primary
+        style: aaa
     align: left
     image: images/hero.svg
     image_position: right
