@@ -109,6 +109,10 @@ models:
     labelField: title
     fields:
       - type: string
+        name: title2
+        label: Header Title2
+        description: The title displayed in the header if logo image not specified
+      - type: string
         name: title
         label: Header Title
         description: The title displayed in the header if logo image not specified
